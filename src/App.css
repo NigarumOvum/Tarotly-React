@@ -1,0 +1,161 @@
+/* body { 
+  background-color:#fadf5a;
+} */
+
+.App {
+  text-align: center;
+  background-color: white;
+  min-height: 100vh;
+}
+
+.header, h2 {
+  font-family: 'Lora', serif;
+}
+.page-header {
+  font-weight: bolder;
+  font-size: 2em;
+}
+.content-header {
+  font-size: 2em;
+}
+.menu-header {
+  margin-top: 1em;
+}
+a {
+  color: black;
+}
+.menu-link {
+  color: black;
+  font-weight: bold;
+}
+.menu-link:hover {
+  background-color: #fadf5a;
+  color: black;
+}
+
+.shuffling {
+  background-color: #80ADC2;
+}
+
+/* Lauren's btn, input, button */
+.btn {
+  background-color: #364153;
+  font-size: 1em;
+  padding:10px 20px; 
+  display: inline-block;
+  border-radius:5px;
+  color :white;
+  padding:.8em;
+  margin: 20px;
+  border-color: #364153;
+}
+.btn:hover {
+  background-color: #80ADC2;
+  border-color: #80ADC2;
+}
+.btn-nav {
+  padding: 0px;
+  background-color: transparent;
+  font-size: 2em;
+  border-color: transparent;
+  color: black;
+}
+.btn-nav:hover {
+  background-color: transparent;
+  border-color: transparent;
+  color: #80ADC2;
+}
+.input {
+  background-color: white;
+  border-color: white;
+  padding:20px 10px;
+  border-radius:5px;
+  margin: 30px;
+  width: 300px;
+  text-align: center;
+  font-style: italic;
+}
+
+/* Lauren's btn, input, button end */
+
+.show-cards {
+  max-width: 500px;
+  margin: 10px auto;
+  padding: 20px; 
+}
+
+.description{
+  text-align: left;
+}
+
+.cards-display{
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}
+
+.card img{
+  width: 150px;
+  height: 270px;
+}
+
+.tarot-description{
+  margin-bottom: 10px;
+}
+
+.upside-down {
+  -webkit-transform: rotate(180deg);     /* Chrome and other webkit browsers */
+  -moz-transform: rotate(180deg);        /* FF */
+  -o-transform: rotate(180deg);          /* Opera */
+  -ms-transform: rotate(180deg);         /* IE9 */
+  transform: rotate(180deg);             /* W3C compliant browsers */
+}
+
+.shuffle-button {
+  z-index: 1000;
+}
+
+.ani-container {
+  /* position: fixed; */
+  display: grid;
+  /* max-width: 50%;
+  justify-self: center;
+  justify-items: center; */
+  top: 20vh;
+}
+
+.navbar {
+  background-color: #fadf5a;
+}
+
+.initial {
+  background-color: #fadf5a;
+  height: 95vh;
+  padding-top: 5em;
+}
+
+.question-result {
+  font-size: 1.5em;
+  border-radius: 5px;
+  padding: 2em;
+  font-family: 'Lora', serif;
+  font-style: italic;
+}
+.cards-display {
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
+.card-desc {
+  padding-top: 2em;
+}
+
+.shuffling {
+  min-height: 95vh;
+}
+
+.another-reading {
+  background-color: #fadf5a;
+  border-radius: 5px;
+  padding: 1em;
+}
