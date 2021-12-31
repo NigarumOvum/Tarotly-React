@@ -1,23 +1,32 @@
-# GDI Tarot App
+# Tarotly - Tarot App (https://)
 ¡Haciendo una divertida aplicación de tarot!  
 ![Tarot Cards](./src/Components/assets/tarot-card-back.png)
 
 ## Links
-[Wireframes, user story, and design elements](https://www.figma.com/file/lSQ9oeAEw8eHLGKUCOLI72/Girl-Develop-It-Hackathon-(Tarot-Deck)?node-id=1%3A47)  
-[About the app](./docs/about.md)  
-[Instructions](./docs/ReadingTheCards.md)
+[Acerca de esta Apliacion](./docs/about.md)  
+[Instrucciones](./docs/ReadingTheCards.md)
 
-### To install
-1. clone this repo
-2. run `npm install` in the project root directory
-3. run `npm start` to start a local development server at `localhost:3000`
+**Built with:**
 
-### Resource Credits
-- Tarot API resources, from [ekelen's tarot-api](https://github.com/ekelen/tarot-api). 
-- notable node modules used:
-  - [react](https://www.npmjs.com/package/react)
-  - [react-bootstrap](https://react-bootstrap.github.io/)
-  - [scripts](https://docs.npmjs.com/cli/v7/using-npm/scripts)
-  - [react-icons](https://www.npmjs.com/package/react-icons)
-  - [react-router](https://www.npmjs.com/package/react-router)
+
+# About Me:
+
+- 🤔 I’m looking for better oportunities and projects to growth my skills and gain experience.
+- ⚡ Fun fact: I play video games, play the guitar/sing and learn new technologies very often.
+- 🔭 My Portfolio:https://brealy-padron-portfolio-react.vercel.app/
+
+
+:mailbox: Reach me out!
+- 📫 How to reach me: neighbordevcr@gmail.com
+
+<p align = "center">
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bfpr131095/)
+
+</p>
+
+</hr>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nigarumovum.nigarumovum)
+
 
