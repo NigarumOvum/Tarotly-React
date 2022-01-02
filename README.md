@@ -1,12 +1,17 @@
-# Tarotly - Tarot App (https://)
+# Tarotly Tarot App - (https://tarotly-react.vercel.app/)
 ¡Haciendo una divertida aplicación de tarot!  
 ![Tarot Cards](./src/Components/assets/tarot-card-back.png)
 
-## Links
+## Built with:
+![React](https://img.icons8.com/plasticine/48/000000/react.png)
+![node](https://img.icons8.com/color/48/000000/nodejs.png)
+![css3](https://img.icons8.com/color/48/000000/css3.png)
+
+## Description:
+
+### Links
 [Acerca de esta Apliacion](./docs/about.md)  
 [Instrucciones](./docs/ReadingTheCards.md)
-
-**Built with:**
 
 
 # About Me:
